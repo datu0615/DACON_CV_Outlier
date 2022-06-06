@@ -1,5 +1,6 @@
 # DACON_CV_Outlier!
-[20220606_140450](https://user-images.githubusercontent.com/84311270/172098250-286f78cf-d5b0-432d-9a74-f9f230be89f4.png)
+![20220606_140450](https://user-images.githubusercontent.com/84311270/172098410-5aa5075f-12ec-40a5-8c47-94372d7536b1.png)
+
 
 사물의 종류와 상태를 분류하는 컴퓨터 비전 알고리즘 개발
 
